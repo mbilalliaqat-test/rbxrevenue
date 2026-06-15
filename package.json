@@ -1,0 +1,12 @@
+{
+  "name": "rbxrevenue",
+  "version": "1.0.0",
+  "description": "Roblox DevEx Calculator",
+  "private": true,
+  "scripts": {
+    "build": "node build-speed-insights.js"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
