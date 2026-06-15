@@ -1,0 +1,106 @@
+{
+  "cleanUrls": false,
+  "trailingSlash": true,
+  "headers": [
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/robots.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/blog",
+      "destination": "/blog/index.html"
+    },
+    {
+      "source": "/blog/",
+      "destination": "/blog/index.html"
+    },
+    {
+      "source": "/blog/roblox-devex-explained",
+      "destination": "/blog/roblox-devex-explained/index.html"
+    },
+    {
+      "source": "/blog/roblox-devex-explained/",
+      "destination": "/blog/roblox-devex-explained/index.html"
+    },
+    {
+      "source": "/blog/roblox-developer-earnings",
+      "destination": "/blog/roblox-developer-earnings/index.html"
+    },
+    {
+      "source": "/blog/roblox-developer-earnings/",
+      "destination": "/blog/roblox-developer-earnings/index.html"
+    },
+    {
+      "source": "/blog/roblox-gamepass-pricing-guide",
+      "destination": "/blog/roblox-gamepass-pricing-guide/index.html"
+    },
+    {
+      "source": "/blog/roblox-gamepass-pricing-guide/",
+      "destination": "/blog/roblox-gamepass-pricing-guide/index.html"
+    },
+    {
+      "source": "/blog/players-needed-to-make-money-on-roblox",
+      "destination": "/blog/players-needed-to-make-money-on-roblox/index.html"
+    },
+    {
+      "source": "/blog/players-needed-to-make-money-on-roblox/",
+      "destination": "/blog/players-needed-to-make-money-on-roblox/index.html"
+    },
+    {
+      "source": "/blog/roblox-game-development-budget",
+      "destination": "/blog/roblox-game-development-budget/index.html"
+    },
+    {
+      "source": "/blog/roblox-game-development-budget/",
+      "destination": "/blog/roblox-game-development-budget/index.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/about/index.html"
+    },
+    {
+      "source": "/about/",
+      "destination": "/about/index.html"
+    },
+    {
+      "source": "/privacy",
+      "destination": "/privacy/index.html"
+    },
+    {
+      "source": "/privacy/",
+      "destination": "/privacy/index.html"
+    },
+    {
+      "source": "/terms",
+      "destination": "/terms/index.html"
+    },
+    {
+      "source": "/terms/",
+      "destination": "/terms/index.html"
+    },
+    {
+      "source": "/thanks",
+      "destination": "/thanks.html"
+    },
+    {
+      "source": "/thanks/",
+      "destination": "/thanks.html"
+    }
+  ]
+}

@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rbxrevenue.netlify.app/</loc>
+    <loc>https://rbxrevenue.vercel.app/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/blog/</loc>
+    <loc>https://rbxrevenue.vercel.app/blog/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/blog/roblox-devex-explained/</loc>
+    <loc>https://rbxrevenue.vercel.app/blog/roblox-devex-explained/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/blog/roblox-developer-earnings/</loc>
+    <loc>https://rbxrevenue.vercel.app/blog/roblox-developer-earnings/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/blog/roblox-gamepass-pricing-guide/</loc>
+    <loc>https://rbxrevenue.vercel.app/blog/roblox-gamepass-pricing-guide/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/blog/players-needed-to-make-money-on-roblox/</loc>
+    <loc>https://rbxrevenue.vercel.app/blog/players-needed-to-make-money-on-roblox/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/blog/roblox-game-development-budget/</loc>
+    <loc>https://rbxrevenue.vercel.app/blog/roblox-game-development-budget/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/about/</loc>
+    <loc>https://rbxrevenue.vercel.app/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/privacy/</loc>
+    <loc>https://rbxrevenue.vercel.app/privacy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rbxrevenue.netlify.app/terms/</loc>
+    <loc>https://rbxrevenue.vercel.app/terms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
