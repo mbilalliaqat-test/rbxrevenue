@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rbxrevenue.netlify.app/sitemap.xml
