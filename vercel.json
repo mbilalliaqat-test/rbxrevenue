@@ -1,6 +1,6 @@
 {
   "cleanUrls": false,
-  "trailingSlash": true,
+  "trailingSlash": false,
   "headers": [
     {
       "source": "/sitemap.xml",
@@ -21,86 +21,106 @@
       ]
     }
   ],
-  "rewrites": [
+  "redirects": [
     {
       "source": "/blog",
-      "destination": "/blog/index.html"
+      "destination": "/blog.html",
+      "permanent": false
     },
     {
       "source": "/blog/",
-      "destination": "/blog/index.html"
+      "destination": "/blog.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-devex-explained",
-      "destination": "/blog/roblox-devex-explained/index.html"
+      "destination": "/roblox-devex-explained.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-devex-explained/",
-      "destination": "/blog/roblox-devex-explained/index.html"
+      "destination": "/roblox-devex-explained.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-developer-earnings",
-      "destination": "/blog/roblox-developer-earnings/index.html"
+      "destination": "/roblox-developer-earnings.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-developer-earnings/",
-      "destination": "/blog/roblox-developer-earnings/index.html"
+      "destination": "/roblox-developer-earnings.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-gamepass-pricing-guide",
-      "destination": "/blog/roblox-gamepass-pricing-guide/index.html"
+      "destination": "/roblox-gamepass-pricing-guide.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-gamepass-pricing-guide/",
-      "destination": "/blog/roblox-gamepass-pricing-guide/index.html"
+      "destination": "/roblox-gamepass-pricing-guide.html",
+      "permanent": false
     },
     {
       "source": "/blog/players-needed-to-make-money-on-roblox",
-      "destination": "/blog/players-needed-to-make-money-on-roblox/index.html"
+      "destination": "/players-needed-to-make-money-on-roblox.html",
+      "permanent": false
     },
     {
       "source": "/blog/players-needed-to-make-money-on-roblox/",
-      "destination": "/blog/players-needed-to-make-money-on-roblox/index.html"
+      "destination": "/players-needed-to-make-money-on-roblox.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-game-development-budget",
-      "destination": "/blog/roblox-game-development-budget/index.html"
+      "destination": "/roblox-game-development-budget.html",
+      "permanent": false
     },
     {
       "source": "/blog/roblox-game-development-budget/",
-      "destination": "/blog/roblox-game-development-budget/index.html"
+      "destination": "/roblox-game-development-budget.html",
+      "permanent": false
     },
     {
       "source": "/about",
-      "destination": "/about/index.html"
+      "destination": "/about.html",
+      "permanent": false
     },
     {
       "source": "/about/",
-      "destination": "/about/index.html"
+      "destination": "/about.html",
+      "permanent": false
     },
     {
       "source": "/privacy",
-      "destination": "/privacy/index.html"
+      "destination": "/privacy.html",
+      "permanent": false
     },
     {
       "source": "/privacy/",
-      "destination": "/privacy/index.html"
+      "destination": "/privacy.html",
+      "permanent": false
     },
     {
       "source": "/terms",
-      "destination": "/terms/index.html"
+      "destination": "/terms.html",
+      "permanent": false
     },
     {
       "source": "/terms/",
-      "destination": "/terms/index.html"
+      "destination": "/terms.html",
+      "permanent": false
     },
     {
       "source": "/thanks",
-      "destination": "/thanks.html"
+      "destination": "/thanks.html",
+      "permanent": false
     },
     {
       "source": "/thanks/",
-      "destination": "/thanks.html"
+      "destination": "/thanks.html",
+      "permanent": false
     }
   ]
 }
